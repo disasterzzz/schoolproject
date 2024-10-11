@@ -1,0 +1,9 @@
+Django
+djangorestframework
+psycopg2
+Celery
+django-filter
+django-debug-toolbar
+Pillow
+mock==4.0.3
+factory_boy==3.2.0
